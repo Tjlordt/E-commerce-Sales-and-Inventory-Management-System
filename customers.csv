@@ -1,0 +1,11 @@
+CustomerID,CustomerName,Email,PhoneNumber
+1,Customer 1,customer1@example.com,555-123-4567
+2,Customer 2,customer2@example.com,555-234-5678
+3,Customer 3,customer3@example.com,555-345-6789
+4,Customer 4,customer4@example.com,555-456-7890
+5,Customer 5,customer5@example.com,555-567-8901
+6,Customer 6,customer6@example.com,555-678-9012
+7,Customer 7,customer7@example.com,555-789-0123
+8,Customer 8,customer8@example.com,555-890-1234
+9,Customer 9,customer9@example.com,555-901-2345
+10,Customer 10,customer10@example.com,555-012-3456
