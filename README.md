@@ -38,6 +38,8 @@ EmployeeID: Unique identifier for each employee.
 EmployeeName: Name of the employee.
 Role: Categorical variable representing the role of the employee (Manager, Salesperson, Technician).
 This schema establishes relationships between products, sales orders, customers, inventory, and employees, creating a comprehensive structure for managing e-commerce data.
+
+
 Key Concepts:
 
 Primary Key: A unique identifier for each record in a table.
